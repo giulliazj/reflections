@@ -1,0 +1,1 @@
+Usar um repositório remoto em vez de manter o trabalho local pode ser muito útil para trabalhos em grupos.
